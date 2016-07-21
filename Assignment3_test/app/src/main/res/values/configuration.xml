@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ball_radius">20</integer>
+    <integer name="speed_queue_size">10</integer>
+    <integer name="initial_acceleration_rate">5</integer>
+    <integer name="collided_acceleration_rate">3</integer>
+    <integer name="ball_list_size_multi">10</integer>
+    <integer name="ball_list_size_single">5</integer>
+    <integer name="ball_stroke_width">3</integer>
+
+    <integer name="drawing_bitmap_width_default">480</integer>
+    <integer name="drawing_bitmap_height_default">720</integer>
+
+    <integer name="drawing_bitmap_width_16_9">1080</integer>
+    <integer name="drawing_bitmap_height_16_9">1920</integer>
+
+    <integer name="drawing_bitmap_width_16_10">720</integer>
+    <integer name="drawing_bitmap_height_16_10">1184</integer>
+
+    <integer name="touch_event_list_size">100</integer>
+
+    <integer name="initial_level_num">18</integer>
+</resources>
